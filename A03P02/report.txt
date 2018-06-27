@@ -1,0 +1,28 @@
+The Program doesn’t require any external libraries or knowledge to run. The only option 
+present is the ability to switch between files and you can do that by simply typing “c”
+as for change. When pressed you will be prompted to enter name of the file and the which column to compare on the file. Please enter one column numbers and not names and there is no column 0 so columns starts from 1. If follow the prompt should be able to play with the program.
+The color varies based on the data, more a number is higher more intense blue will appear.  This choice was made to give an idea to the user of intensity, the more bright color is a higher value we have.
+The program also the two features working: 
+The user can place the mouse over a point and it will tell the exact position of the point. Also the zooming feature is working. In fact by simply clicking and dragging your mouse the user can select part of the screen that it is interested and zoom. Also to set the zoom the original position you can simply right click and it will come back the default zoom.
+1.
+The minimum weight for a 3 cylinder is 2124
+The Maximum weight for a 3 cylinder is 2720
+
+The minimum weight for a 4 cylinder is 1613
+The Maximum weight for a 4 cylinder is 3270
+
+The minimum weight for a 5 cylinder is 2830
+The Maximum weight for a 5 cylinder is 3530
+
+The minimum weight for a 6 cylinder is 3907
+The Maximum weight for a 6 cylinder is 2472
+
+The minimum weight for a 8 cylinder is 5140
+The Maximum weight for a 8 cylinder is 3086
+
+I was able to achieve this result by using the zoom feature without it would have take me a while to figure it out.
+I have some picture that explain how I achieve this results. Also the mouse over feature was very helpful as well to get the right value.
+2.
+It seems to me that the slope of the line is x because by zooming in a lot the trend seems that(A03ReportImg03.png).we do have some outliners value and they seem to be values between to 0 and 0.8. Look at picture A03ReportImg04.png for more information 
+
+

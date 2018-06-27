@@ -1,0 +1,13 @@
+The Program doesn’t require any external libraries or knowledge to run. The only option 
+present is the ability to switch between files and you can do that by simply typing “c”
+as for change. When pressed you will be prompted to enter name of the file and the which column to compare on the file. Please enter one column numbers and not names and there is no column 0 so columns starts from 1. If follow the prompt should be able to play with the program.
+The color varies based on the data, more a number is higher more intense blue will appear.  This choice was made to give an idea to the user of intensity, the more bright color is a higher value we have.
+
+By looking at the A03ReportImg01.png
+We can see that the data tells us that the more a petal is wide the longer it is. They are directly proportional. In fact, x and y are increasing. We can also note that there is a gap between 2.1 and 2.8 which probably mean that there are many Iris with that petal length. However, it is important to note that the widest petal is not the longest of this data set. 
+
+By looking at the A03ReportImg02.png
+We can note that the number of horsepower do influence the MPG. Horsepower is inversely proportional of MPG. We can see that a car with 231 horsepower will have only 14 MPG. By looking at the data we can say that there isn’t a lot of data from 37 to 47 MPG. It looks kind the data wasn’t as rich as in the other part or probably that there is a limit. There aren’t many vehicle with less 45 horsepower.  
+
+By looking at the A03ReportImg013.png
+We can see that the rings of Abalone are a lot when the diameter is very small. And there a lot of rings when the diameter is very small. There is a lot of data for a small diameter and not as much for bigger diameter. Probably Abalone with a big diameter is not very easy to find.
